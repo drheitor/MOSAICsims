@@ -17,7 +17,7 @@ import os
 
 
 #list of directories ( I_mag_spec1...) format
-os.system('ls -d *1800-6 > list')
+os.system('ls -d *nPSF_norm_1800-6 > list')
 
 
 #list of spectra format: spec1 name.spec.txt
